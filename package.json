@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-practice-from-lws-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaisulislamRimon/tailwindcss-practice-from-lws-youtube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaisulislamRimon/tailwindcss-practice-from-lws-youtube/issues"
+  },
+  "homepage": "https://github.com/RaisulislamRimon/tailwindcss-practice-from-lws-youtube#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.5"
+  }
+}
